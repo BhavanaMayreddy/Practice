@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+  font-family: 'Italianno', cursive;
+}
+table{
+  margin:auto;
+  /* border:1; */
+}
+
+td{
+  height:200px;
+  width: 100px;
+  margin:20px;
+}
+#one{
+  /* color:#BCE784; */
+  background-color: #BCE784;
+}
+#two{
+  background-color: #7bdff2;
+}
+#three{
+  background: #b2f7ef;
+}
+#four{
+  background: #ede7e3;
+}
+#five{
+  background: #f7d6e0;
+}
+#six{
+  background: #f2b5d4;
+}
